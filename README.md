@@ -1,3 +1,3 @@
 # portfolio
 my personal portfolio website
-[Read Me](https://karolina-benitez.github.io/portfolio/)
+[Read Me](https://chisomagajika.github.io/portfolio/portfolio.html)
