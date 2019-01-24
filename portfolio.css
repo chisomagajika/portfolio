@@ -1,19 +1,24 @@
-#navbar a{
-    font-family:'ZCOOL QingKe HuangYou', cursive; 
-    font-weight: 200;
-    color: black;
-    font-size: 2rem;
+#navbar a {
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+  font-weight: 200;
+  color: black;
+  font-size: 2rem;
 }
 
 body {
   height: 100%;
 }
- html{ 
-   height: 100%; 
- }
+html {
+  height: 100%;
+}
 .bg {
+<<<<<<< HEAD
    background-color: #ECECEC ;
    height: 100%;
+=======
+  background-color: rgb(235, 231, 225);
+  height: 100%;
+>>>>>>> 93a188012f6bf0b53276d43f22ead0c57cac364c
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -21,10 +26,11 @@ body {
   background-size: cover;
 }
 
- .layout-social .layout-icon{
-    font-size: 3em;
- }  
+.layout-social .layout-icon {
+  font-size: 3em;
+}
 
+<<<<<<< HEAD
 .mainpage .opening h1{
     margin: 5%;
     font-size: 5rem;
@@ -39,4 +45,35 @@ body {
     text-align: center;
     font-family: 'Libre Baskerville', serif;
     color:#848797;
+=======
+.mainpage .opening h1 {
+  margin: 10%;
+  font-size: 3rem;
+  text-align: center;
+  font-family: "Coiny", cursive;
+  padding-top: 1rem;
+}
+.mainpage .opening h2 {
+  margin: 1%, 20%, 20%, 20%;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  /* padding-top: 1rem; */
+}
+.button {
+  background-color: #b39cdf;
+  border-radius: 1000px;
+  display: inline-block;
+  text-align: center;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-appearance: none;
+  transition: background-color 0.25s ease-out, color 0.25s ease-out;
+  vertical-align: center;
+  border: 1px solid transparent;
+  font-size: 0.9rem;
+  color: white;
+  padding: 0.85em 1em;
+  margin: 40px 140px 50px 140px;
+>>>>>>> 93a188012f6bf0b53276d43f22ead0c57cac364c
 }
