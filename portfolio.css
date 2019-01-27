@@ -12,13 +12,8 @@ html {
   height: 100%;
 }
 .bg {
-<<<<<<< HEAD
-   background-color: #ECECEC ;
-   height: 100%;
-=======
   background-color: rgb(235, 231, 225);
   height: 100%;
->>>>>>> 93a188012f6bf0b53276d43f22ead0c57cac364c
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -30,28 +25,13 @@ html {
   font-size: 3em;
 }
 
-<<<<<<< HEAD
-.mainpage .opening h1{
-    margin: 5%;
-    font-size: 5rem;
-    text-align: center;
-    font-family: 'Coiny', cursive;
-    padding-top: 1rem;
-    color: #B39CDF;
-}
-.mainpage .opening h2{
-    margin:1%,20%,20%,20%;
-    font-size: 2rem;
-    text-align: center;
-    font-family: 'Libre Baskerville', serif;
-    color:#848797;
-=======
 .mainpage .opening h1 {
   margin: 10%;
   font-size: 3rem;
   text-align: center;
   font-family: "Coiny", cursive;
   padding-top: 1rem;
+  color: #b39cdf;
 }
 .mainpage .opening h2 {
   margin: 1%, 20%, 20%, 20%;
@@ -75,5 +55,4 @@ html {
   color: white;
   padding: 0.85em 1em;
   margin: 40px 140px 50px 140px;
->>>>>>> 93a188012f6bf0b53276d43f22ead0c57cac364c
 }
