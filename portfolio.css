@@ -12,7 +12,7 @@ html {
   height: 100%;
 }
 .bg {
-  background-color: rgb(235, 231, 225);
+  background-color:#DAD6DF;
   height: 100%;
 
   /* Center and scale the image nicely */
@@ -33,12 +33,19 @@ html {
   padding-top: 1rem;
   color: #b39cdf;
 }
+br {
+  display: block;
+  margin: 30px 0;
+  line-height: 50px;
+}
 .mainpage .opening h2 {
-  margin: 1%, 20%, 20%, 20%;
+  /* margin: 1%, 20%, 20%, 20%; */
   font-size: 2rem;
   text-align: center;
-  font-family: "Libre Baskerville", serif;
-  /* padding-top: 1rem; */
+  font-family: 'Questrial', sans-serif;
+  color:#564B61;
+  line-height: 150%;
+
 }
 .button {
   background-color: #b39cdf;
@@ -55,4 +62,8 @@ html {
   color: white;
   padding: 0.85em 1em;
   margin: 40px 140px 50px 140px;
+}
+img{
+  size: 800px;
+  margin-bottom: 10%;
 }
